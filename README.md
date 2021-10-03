@@ -1,7 +1,7 @@
-# Plantilla del curso de desarrollo ágil 
+# CC-21-22-Ejercicios
 
-Plantilla para el [curso de desarrollo ágil](https://jj.github.io/curso-tdd)
+- [Ejercicios Tema#1](https://github.com/ccvaillant1992/CC-21-22-Ejercicios/tree/master/docs/Ejercicios-Tema1.md): Arquitecturas software para la nube
 
-Contiene el mínimo para un proyecto, incluyendo una GitHub action que
-comprueba la presencia de ciertos ficheros, un directorio para los
-tests, y otro para la documentación.
+## Acerca de:
+Este repositorio contiene una actualización de la resolución de los ejercios orientados en cada temario de la asignatura de Cloud Computing
+
